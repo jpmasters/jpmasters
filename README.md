@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpmasters
-- 👀 I’m interested in lots of topics from 80s assemblers to modern microservice and app dvelopment.
+- 👀 I’m interested in lots of topics from 80s assemblers to modern microservice and app development.
 - 🌱 I’m currently learning Clojure and Ionic.
 - 💞️ I’m looking to collaborate on anything interesting although I have very little time to commit due to a busy day job.
 - 📫 Reach me on Twitter at @JonPMasters
